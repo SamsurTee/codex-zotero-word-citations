@@ -30,8 +30,9 @@ If you prefer to install from GitHub with Codex's skill installer, use the repo 
 
 ```bash
 python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo zhentic/codex-zotero-word-citations \
-  --path .
+  --repo SamsurTee/codex-zotero-word-citations \
+  --path . \
+  --name zotero-word-citations
 ```
 
 After installation, restart Codex so it picks up the skill.
