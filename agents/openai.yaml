@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Word Citations"
+  short_description: "Import papers, write in Word, and insert real Zotero citations"
+  default_prompt: "Use $zotero-word-citations to find or import papers into Zotero, draft a Word summary, and insert real Zotero citations and a bibliography."
